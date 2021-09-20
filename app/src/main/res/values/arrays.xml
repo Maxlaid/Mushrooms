@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EdibleMushrooms">
+        <item>Белый гриб</item>
+        <item>Рыжик</item>
+        <item>Подосиновик</item>
+        <item>Подберёзовик</item>
+        <item>Лисичка</item>
+        <item>Сыроежка</item>
+    </string-array>
+</resources>
